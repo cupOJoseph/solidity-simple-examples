@@ -12,6 +12,6 @@ A list of solidity practice challenges from around the web
 
 
 ## Other Resources
-[Best practices for security](https://consensys.github.io/smart-contract-best-practices/)
-[Solidity Cheat Sheet](https://github.com/manojpramesh/solidity-cheatsheet)
+- [Best practices for security](https://consensys.github.io/smart-contract-best-practices/)
+- [Solidity Cheat Sheet](https://github.com/manojpramesh/solidity-cheatsheet)
 
