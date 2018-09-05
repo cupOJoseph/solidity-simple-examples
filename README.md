@@ -1,5 +1,5 @@
-# solidity-practice-challenges
-A list of solidity practice challenges from around the web
+# solidity pratice
+Some things you might find useful
 
 <br>
 
