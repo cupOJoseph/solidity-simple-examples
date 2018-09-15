@@ -1,7 +1,10 @@
 # solidity pratice
 Some things you might find useful
 
-<br>
+## Files
+- Simple Token: Bare bones example for making a token in solidity.
+- AuctionButton, auction the name of my new koi fish. Ending time, owner, and max bid. Payable function example.
+------------------------------------------
 
 ## Challenges
 
