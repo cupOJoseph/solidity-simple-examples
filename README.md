@@ -35,4 +35,5 @@ A list of challenges that a newbie can build from scratch in a couple hours, aft
 - Once you have a grasp, practice blockchain dev concepts using solidity on challenges ranging easy to medium: https://www.chainshot.com/challenges
 - consult cheat sheet for syntax help:
 - get a deeper dive for security best practices for ethereum smart contracts for those interested: https://consensys.github.io/smart-contract-best-practices/
+- an online IDE for writing solidity code and deploying to ethereum: https://remix.ethereum.org
 - Join a local community of developers to ask questions: https://join.slack.com/t/dcblockchain/shared_invite/enQtMzA0MDA5NTAxMTIwLTQ2N2ZlMmY1MmQyZTk0MGFhNzNkZjM0ZjRiMzBmZWRkODVhNmUzYjgxMDk0MWQxNzRlZWZlZjAxOTM4MmY1NDc
