@@ -28,3 +28,11 @@ A list of challenges that a newbie can build from scratch in a couple hours, aft
 - A button that links to a website, pay more than the last person in ETH to change the button link.
 - A contract that starts a countdown, the last person to call the tick function gets a prize.
 - Allow your friends to borrow a small amount from your contract. I they haven’t paid it back in a week they go on a naughty list.
+
+## Solidity Dev beginner resources
+- Get a good overview for what the ethereum blockchain is and what its used for: https://www.youtube.com/watch?v=XGa-8txQo6E
+- Learn Solidity basics syntax and how it is used with very high quality project based walkthrough: https://cryptozombies.io/
+- Once you have a grasp, practice blockchain dev concepts using solidity on challenges ranging easy to medium: https://www.chainshot.com/challenges
+- consult cheat sheet for syntax help:
+- get a deeper dive for security best practices for ethereum smart contracts for those interested: https://consensys.github.io/smart-contract-best-practices/
+- Join a local community of developers to ask questions: https://join.slack.com/t/dcblockchain/shared_invite/enQtMzA0MDA5NTAxMTIwLTQ2N2ZlMmY1MmQyZTk0MGFhNzNkZjM0ZjRiMzBmZWRkODVhNmUzYjgxMDk0MWQxNzRlZWZlZjAxOTM4MmY1NDc
